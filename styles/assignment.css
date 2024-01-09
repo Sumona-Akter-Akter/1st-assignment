@@ -5,12 +5,41 @@
 .banner-card img{
     width: 1000px;
     height: 500px;
+    background: linear-gradient;
+    
 }
 .banner-text {
     position: absolute;
-    top: 25%;
+    top: 10%;
     left:25%;
     right: 25%;
     color: #fff;
     padding: 10px;
-   
+}
+
+.banner-container {
+    color:tomato;
+   text-align: center;
+   font-size: 24px;
+   font-weight: 500;
+   padding: 10px;
+   margin: 0;
+}
+.banner-container p{
+    color:tomato;
+    text-align: center;
+    font-size: 10px;
+    font-weight: 500;
+
+}
+
+.banner-container h3{
+    color: black;
+    font-size: 30px;
+}
+img{
+    border-radius: 5px;
+    height: 500px;
+    width: 200px;
+    
+}
