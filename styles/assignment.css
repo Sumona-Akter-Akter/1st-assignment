@@ -92,8 +92,10 @@ main section{
 }
 
 .btn-primary{
-    background: black;
+    background: red;
     color: white;
+    text-align: center;
+
 }
 .about .images{
     display: flex;
@@ -104,3 +106,15 @@ main section{
     justify-content: right;
     text-align: right;
 }
+.about-info{
+    text-align: center;
+ 
+
+  
+}
+.info-title{
+    color: red;
+}
+
+
+
